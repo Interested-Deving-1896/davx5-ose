@@ -1,47 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# davx5-ose
 
-[![Follow @davx5app@fosstodon.org](https://img.shields.io/mastodon/follow/109598783742737223?domain=https%3A%2F%2Ffosstodon.org&style=flat-square)](https://fosstodon.org/@davx5app)
-[![Website](https://img.shields.io/website?style=flat-square&up_color=%237cb342&url=https%3A%2F%2Fwww.davx5.com)](https://www.davx5.com/)
-[![License](https://img.shields.io/github/license/bitfireAT/davx5-ose?style=flat-square)](https://github.com/bitfireAT/davx5-ose/blob/main/LICENSE)
-[![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square)](https://f-droid.org/packages/at.bitfire.davdroid/)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bitfireAT/davx5-ose/total?label=GitHub%20downloads)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/davx5-ose)
 
-![DAVx⁵ logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
+## Architecture
 
-DAVx⁵
-========
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-> [!IMPORTANT]
-> Please see the [DAVx⁵ Web site](https://www.davx5.com) for
-> comprehensive information about DAVx⁵, including a list of services it has been tested with,
-> a manual and FAQ.
+## Install
 
-DAVx⁵ is licensed under the [GPLv3 License](LICENSE).
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-News and updates: 
+```bash
+git clone https://github.com/Interested-Deving-1896/davx5-ose.git
+cd davx5-ose
+```
 
-* [@davx5app@fosstodon.org](https://fosstodon.org/@davx5app) on Mastodon
+## Usage
 
-**Help, feature requests, bug reports: [DAVx⁵ discussions](https://github.com/bitfireAT/davx5-ose/discussions)**
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-Parts of DAVx⁵ have been outsourced into these libraries:
+## Configuration
 
-* [cert4android](https://github.com/bitfireAT/cert4android) – custom certificate management
-* [dav4jvm](https://github.com/bitfireAT/dav4jvm) – WebDAV/CalDav/CardDAV framework
-* [synctools](https://github.com/bitfireAT/synctools) – iCalendar/vCard/Tasks processing and content provider access
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-**If you want to support DAVx⁵, please consider [donating to DAVx⁵](https://www.davx5.com/donate)
-or [purchasing it](https://www.davx5.com/download).**
+## CI
 
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-USED THIRD-PARTY LIBRARIES
-==========================
+## Mirror chain
 
-The most important libraries which are used by DAVx⁵ (alphabetically):
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/davx5-ose`](https://github.com/Interested-Deving-1896/davx5-ose) and mirrored through:
 
-* [dnsjava](https://github.com/dnsjava/dnsjava) – [BSD License](https://github.com/dnsjava/dnsjava/blob/master/LICENSE)
-* [ez-vcard](https://github.com/mangstadt/ez-vcard) – [New BSD License](https://github.com/mangstadt/ez-vcard/blob/master/LICENSE)
-* [iCal4j](https://github.com/ical4j/ical4j) – [New BSD License](https://github.com/ical4j/ical4j/blob/develop/LICENSE.txt)
-* [okhttp](https://square.github.io/okhttp) – [Apache License, Version 2.0](https://square.github.io/okhttp/#license)
+```
+Interested-Deving-1896/davx5-ose  ──►  OpenOS-Project-OSP/davx5-ose  ──►  OpenOS-Project-Ecosystem-OOC/davx5-ose
+```
 
-See _About / Libraries_ in the app for all used libraries and their licenses.
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[GPL-3.0](https://github.com/Interested-Deving-1896/davx5-ose/blob/main-ose/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
